@@ -27,6 +27,51 @@ Este projeto simula a famosa tela de login da Netflix, demonstrando não só min
 - Simulação fiel da interface de login da Netflix.
 - Validação básica de credenciais (planejando melhorias).
 - UI completamente responsiva e adaptada para diferentes resoluções.
+## 🌟 Captura de Tela: Tela de Login da Netflix USA 📸
+
+Abaixo está uma imagem de referência da tela de login da **Netflix USA**, que foi a principal inspiração para este projeto. A interface elegante, minimalista e funcional foi replicada com o uso de **Tailwind CSS** e componentes reutilizáveis para garantir responsividade e uma experiência de usuário otimizada.
+
+![chrome_sPPZGIGXDE](https://github.com/user-attachments/assets/660ad4af-8acc-42f0-84a8-ee77b6d2cdc4)
+![chrome_S64LlTEGub](https://github.com/user-attachments/assets/0dd3414f-8e0d-4037-b8a8-26e53e7dfe12)
+
+O objetivo deste projeto é criar uma experiência o mais próximo possível da interface real, replicando tanto o design quanto a interatividade presentes no site oficial da Netflix.
+
+## 🛤️ Evolução do Conceito e Design 🎨
+
+Durante o desenvolvimento deste projeto, várias iterações e refinamentos foram feitos até chegar à versão final da tela de login. Abaixo estão algumas capturas de tela que mostram a evolução do design:
+
+### 1️⃣ **Protótipo Inicial**
+No início, o foco era na estrutura básica da página, utilizando apenas HTML e CSS. Este protótipo foi essencial para definir o layout e as seções fundamentais da interface, como campos de entrada de usuário e senha.
+
+![chrome_y3pbpi3Ory](https://github.com/user-attachments/assets/fc57df74-adb7-40ac-9b11-3f8fe8022eb5)
+
+---
+
+### 2️⃣ **Segunda Iteração: Aplicando Tailwind CSS**
+Na segunda fase, comecei a aplicar **Tailwind CSS** para estilizar a interface de forma mais moderna e responsiva. As cores, espaçamentos e fontes começaram a se alinhar melhor com o estilo da Netflix.
+
+![chrome_PYYaW92Rdh](https://github.com/user-attachments/assets/b626ecc5-bb1f-4126-8224-c08cd73e10df)
+
+---
+
+### 3️⃣ **Terceira Iteração: Refinamento e Adição de Funcionalidades**
+Com a terceira iteração, adicionei mais funcionalidades, como validação de formulários, e refinei ainda mais o design, tornando a interface mais fiel à da **Netflix USA**. Também foi inserida a navegação básica e ajustes de acessibilidade.
+
+![chrome_9LobkyNbZ2](https://github.com/user-attachments/assets/f76e293c-3522-40b3-b3cd-d9920234088f)
+
+![chrome_dhdmX7XM14](https://github.com/user-attachments/assets/3809eb65-f394-432f-8b72-00e3f2dcc29d)
+![chrome_xZVy3Vj2pD](https://github.com/user-attachments/assets/95fceb14-b33e-4694-add5-685781ad4406)
+
+---
+
+### 4️⃣ **Versão Final**
+Na versão final, todos os elementos de design e funcionalidades foram combinados para criar uma experiência de login imersiva e funcional, muito próxima da interface original da Netflix.
+
+![chrome_ZPJNf9uURM](https://github.com/user-attachments/assets/059b18c1-dc40-409b-ada9-4d4c7759ac6f)
+![chrome_nCRqnbvhKQ](https://github.com/user-attachments/assets/51e4d475-2aad-493b-8259-4c7c2f4860c0)
+
+Este processo evolutivo ajudou a aprimorar o projeto, garantindo não apenas estética, mas também uma ótima experiência do usuário.
+
 
 ## 🚧 Status do Projeto: Em Desenvolvimento 🚧
 
