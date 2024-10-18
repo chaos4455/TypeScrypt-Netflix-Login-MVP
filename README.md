@@ -4,6 +4,8 @@ Sou desenvolvedor backend especializado em **Python**, com um foco crescente em 
 
 ## 💼 Sobre Mim
 
+![chrome_h8V64wmuqS](https://github.com/user-attachments/assets/52f4430c-aa9d-46a8-ba1b-709d430a01a7)
+
 Com uma forte base em **backend Python**, sempre busquei aprimorar minhas habilidades com diversas tecnologias, permitindo que eu entregue soluções completas, tanto em aplicações web quanto desktop. Recentemente, tenho me dedicado a trabalhar no **frontend**, utilizando **Node.js** e **Express.js**, além de agora estar aplicando **TypeScript** para maior escalabilidade e robustez. Também estou familiarizado com frameworks de design moderno como **Tailwind CSS**, o que me permite criar interfaces clean e responsivas.
 
 Se quiser saber mais sobre minha trajetória e acompanhar meu progresso, sinta-se à vontade para me conectar no [LinkedIn](https://www.linkedin.com/in/itilmgf/).
