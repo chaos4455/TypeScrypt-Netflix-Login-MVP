@@ -82,9 +82,9 @@ npm run dev
     * [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%3E%203.0-lightblue.svg)](https://tailwindcss.com/)
 
 
-## ✨ Funcionalidades
+## ✨ Funcionalidades futuras
 
-* Simulação de tela de login.
+* Funcionamento completo da lógica e tela de login.
 * Validação básica de credenciais (futuras implementações).
 * Interface amigável e responsiva.
 
